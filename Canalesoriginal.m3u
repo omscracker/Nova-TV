@@ -1,7 +1,51 @@
+#EXTM3U
+#EXTM3U
 
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1 tvg-logo="http://lacallemusical.net/wp-content/uploads/2013/02/antenalatina.jpg" Antena Latina 7
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+#EXTINF:-1, CDN 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1 tvg-logo="" 
+
+#EXTINF:-1, Certv Canal 4 Santo D.
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+
+
+#EXTINF:-1, Teleantillas Canal 2
+http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
+
+
+
+#EXTINF:-1, TELENORD Canal 10
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+
+
+
+#EXTINF:-1,TELESISTEMA
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1084487987_b214000.m3u8
+
+
+#EXTINF:-1,CDN 2
+http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w679608006.m3u8
+
+
+#EXTINF:-1,TELECANAL 16
+http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+
+
+#EXTINF:-1,NARANJA TV
+http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8
+
+#EXTINF:-1,La SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
+
+#EXTINF:-1,Antena3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+
+
+#EXTINF:-1,TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+
+#EXTINF:-1, MUSA TV
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
+
+
