@@ -1,38 +1,41 @@
 #EXTM3U
 #EXTM3U
 
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Stream 1
-http://www.dominicaninternet.com/reproductor/tv/mobileplayer2.php?streamp=87
-
-#EXTINF:-1, Teleantillas Canal 2
-http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
-
-#EXTINF:-1,tvg-logo="teleantillas.png", Teleantillas 2 HD 
+#EXTINF:-1,TELEANTILLAS 2 
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 
-#EXTINF:-1,Antena3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,SI TV 3
+http://200.26.170.102:8081/
 
 
-#EXTINF:-1, Certv Canal 4 Santo D.
+#EXTINF:-1,CERTV CANAL 4 
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1, TELENORD Canal 10
-http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+#EXTINF:-1,TELEMICRO CANAL 5
+http://107.182.239.141:8081/live2/telemicro0505_1_96/playlist.m3u8
+
+#EXTINF:-1,ANTENA LATINA CANAL 7
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+
+
+#EXTINF:-1,CDN SPORT MAX 
+http://livestream-f.akamaihd.net/15754920_5198653_62665800_1_2128@391999?v=3.6.0&fp=WIN%2021,0,0,216&r=PECNP&g=JRICPJXMUWIZ
+
+#EXTINF:-1,COLORVISION CANAL 9
+http://ss8.domint.net:2048/cvis_str/video/chunklist_w467833068.m3u8
 
 
 #EXTINF:-1,tvg-logo="telesistema.png", TELESISTEMA Canal 11
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
 
+#EXTINF:-1,DIGITAL 15
+http://107.182.239.141:9095/live5/telemicro1515_2_96/playlist.m3u8
 
 #EXTINF:-1,TELECANAL 16
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 
 #EXTINF:-1,Cine Vision canal 19
 rtmp://$OPT:rtmp-raw=rtmp://204.77.214.16/mogulus-stream-edge/cinevisioncanal19 playpath=rtmp://212-47.livestream.com/affiliateStream/cinevisioncanal19/6c69766572657065617465723a72746d703a2f2f3231Â swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?textLines=2&lschannel=true&jsEnabled=false&allowChat=true&browseMode=false&showMoreVideos=false&mode=false&time=&hideChannelBranding=true&t=906608&hideInfo=true&borderColor=0xCCCCCC&iconColor=0x555555&autoPlay=true&allowchat=false&showBorderControlBar=false live=1 pageUrl=http://original.livestream.com/embed/cinevisioncanal19?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=906608
-
-
 
 
 #EXTINF:-1,NARANJA TV
