@@ -50,15 +50,210 @@ http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 rtmp://204.77.214.18:80/mogulus-stream-edge/cinevisioncanal19<playpath>rtmp://212-47.livestream.com/affiliateStream/cinevisioncanal19/6c69766572657065617465723a72746d703a2f2f3231È22d34372e6c69766573747265616d2e636f6d2f6d6f67756c75732f63696e65766973696f6e63616e616c31392f6664617568616a726532303136303531312dÈ132333831315f313938 <swfUrl>http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false&iconColor=0x777777&width=700&color=0xe7e7e7&mute=false&allowchat=true&iconColorOver=0x888888&height=400&time= <pageUrl>http://cdn.livestream.com/embed/cinevisioncanal19?layout=4&color=0xe7e7e7&autoPlay=true&mute=false&iconColorOver=0x888888&iconColor=0x777777&allowchat=true&height=400&width=700
 
 
-
-
-
-
-
-
 #EXTINF:-1, CDN 37
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 
+#EXTINF:-1,TNT HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,AMC
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,UNO TV HD
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1,The Film Zone (W)
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Golden Edge
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Fox Sports
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,ESPN 3
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Fox Movies HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Golden HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,TNT
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,AMC
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Space
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,TV UNAM
+http://dl-tvunam.xsn.com.mx/tvunam1/smil:tvunam1.smil/playlist.m3u8
+#EXTINF:-1,Fox Cinema
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Cinecanal
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,I.sat
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Space
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Studio Universal
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Cinemax
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,ESPN HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,De Pelicula
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Efekto TV Mexico
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Exa tv
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TVCDeportes.mx, TVC DEPORTES
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
+#EXTINF:-1,HBO2.mx,HBO2
+http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720%0Aext
 
-#EXTINF:-1,CDN 37 2
-http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w679608006.m3u8
+#EXTINF:-1,CLUB LAND
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,NOW MUSIC
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,PLANET POP
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,MEGAcanal
+rtmp://200.52.193.57:1935/live/unique/live_2650
+#EXTINF:-1,Trc Television
+rtmp://video7.stream.mx/8024//8024
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,GolTV.es,GolTV HD
+http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
+#EXTINF:-1,Fox family
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDEmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,HBOW.mx,HBO
+http://45.55.247.223:8080/h905d/index.m3u8
+#EXTINF:-1,//www.tv-logo.com/pt-data/uploads/images/logo/canal30_ultra_tv_mx.jpg,ULTRA TV
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:-1,Cinecanal +
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDkmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Fox #EXTINF:-1,WOBI TV
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Fox 1 HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,TLC
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Discovery Turbo
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Discovery Civilization
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Discovery Science
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+
+#EXTINF:-1,Animal Planet
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,History Channel
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+
+#EXTINF:-1,Discovery Theater
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,TIIN
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Tooncast
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Boomerang
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Nick HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Nickelodeon
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Cartoon Network
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Discovery Kids
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Casa Club
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Distrito Comedia
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Fox life
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,FX
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Syfy
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDEmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Comedy Central
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTcmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Fox
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Axn
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDkmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Warner HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Fox
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Universal Channel HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05NyZsYW49MiZyb3dzPTQwJnNlc3Npb249d3FtMTdraGgxYWJxNjdnJmxhbj0y&f=.m3u8
+#EXTINF:-1,Sony
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05MCZsYW49MiZyb3dzPTQwJnNlc3Npb249d3FtMTdraGgxYWJxNjdnJmxhbj0y&f=.m3u8
+#EXTINF:-1,Fox Classics
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,El Garage
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Nick toons
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Tve
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Bloomberg
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1,CNN Espanol
+http://187.247.255.139/Apple/CNNEspanol.m3u8
+#EXTINF:-1,TeleFormula
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT04MiZsYW49MiZyb3dzPTQwJnNlc3Npb249d3FtMTdraGgxYWJxNjdnJmxhbj0y&f=.m3u8
+#EXTINF:-1,PX tv
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzUmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Hmx tv
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,AyM Sports
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjUmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,ESPN 2
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,ESPN
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Fox Sports 2
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Mtv Hits
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,1 Classic
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzcmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Bandamax
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Ritmoson Latino
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Mtv
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDImbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Telehit HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,VH1 HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzgmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,MTV Live HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzAmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,1 HD
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Home and Health
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,TV Novelas
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODYmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,ID
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,E entertainment
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Unicable
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjEmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+#EXTINF:-1,Milenio TV
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTcmbGFuPTImcm93cz00MCZzZXNzaW9uPXdxbTE3a2hoMWFicTY3ZyZsYW49Mg==&f=.m3u8
+
+
