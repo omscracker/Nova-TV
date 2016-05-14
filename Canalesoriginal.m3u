@@ -25,12 +25,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
 #EXTINF:-1,ANTENA LATINA CANAL 7
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
 
-EXTINF:-1,TRA DIGITAL 
-rtmp://$OPT:rtmp-raw=rtmp://qs1.distream.net:2116/t45_str/ playpath=canal45 swfUrl=http://www.dominicaninternet.com/reproductor/tv/jw6/jwplayer.flash.swf live=1 pageUrl=http://www.dominicaninternet.com/reproductor/tv/mobileplay4auto.php?streamp=84
-
-EXTINF:-1,TRA DIGITAL 2
+#EXTINF:-1,TRA DIGITAL
 rtmp://qs1.distream.net:2116/t45_str/<playpath>canal45 <swfUrl>http://www.dominicaninternet.com/reproductor/tv/jw6/jwplayer.flash.swf <pageUrl>http://www.dominicaninternet.com/reproductor/tv/mobileplay4auto.php?streamp=84
-
 
 #EXTINF:0,H&H
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
