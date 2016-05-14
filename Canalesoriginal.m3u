@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTM3U
 
+#EXTINF:-1,Telemundo
+http://66.55.92.79:1935/app/chivasss69s-channel/playlist.m3u8
 
+#EXTINF:-1,Telemundo
+http://66.55.92.79:1935/app/chivasss69s-channel/playlist.m3u8
 
 #EXTINF:-1,NARANJA TV
 http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8
