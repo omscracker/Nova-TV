@@ -31,12 +31,14 @@ rtmp://qs1.distream.net:2116/t45_str/canal45
 #EXTINF:-1,COLORVISION CANAL 9
 http://ss8.domint.net:2048/cvis_str/video/chunklist_w467833068.m3u8
 
-#EXTINF:-1,TVE 24h
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,YUNA VISION CANAL 10
+http://ss9.domint.net:1986/yv_str/yuna/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://www.google.com.do/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=http%3A%2F%2Fwww.tv-tube.org%2Ftvchannels%2Fcountry%2Fdominican-republic&bvm=bv.121658157,bs.1,d.dmo&psig=AFQjCNEjdpwr-KUC9Ku1jz47HCIEZQ-u-Q&ust=1463076972891332", TELESISTEMA CANAL 11
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
 
+#EXTINF:-1,BONAO TV CANAL 12
+http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
 
 #EXTINF:-1, MUSA TV
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
@@ -56,14 +58,19 @@ rtmp://50.62.135.164:1945/teleunion/TU
 #EXTINF:0,LIFETIME
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 
+#EXTINF:-1,NOTICIAS 16
+http://mek2.mekstream.com:1935/noticias16/live2/chunklist.m3u8?wowzasessionid=1847225925
+
+#EXTINF:-1,CINEVISION CANAL 19
+rtmp://204.77.214.14/mogulus-stream-edge/cinevisioncanal19/rtmp://212-47.livestream.com/affiliateStream/cinevisioncanal19/6c69766572657065617465723a72746d703a2f2f3231322d34372e6c69766573747265616d2e636f6d2f6d6f67756c75732f63696e65766973696f6e63616e616c31392f6664617568616a726532303136303531352d3036323630355f313938
+
+
 #EXTINF:-1 tvg-id="Total_Euronews", tvg-logo="euronews-logo.png",EuroNews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
 
 #EXTINF:0,TLNOVELAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 
-#EXTINF:0,tve
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
 
 #EXTINF:0,CANAL DE LAS ESTRELLAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
@@ -73,6 +80,12 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 
 #EXTINF:-1,TELEFUTURO CANAL 23
 rtmp://qs1.distream.net:2112/tf_str/futu
+
+#EXTINF:-1,TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:0,tve
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
 
 #EXTINF:0,H&H
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
