@@ -16,7 +16,7 @@ http://216.24.196.40:1935/live/canal4/playlist.m3u8
 #EXTINF:-1,TELEMICRO CANAL 5
 http://107.182.239.141:8081/live2/telemicro0505_1_96/playlist.m3u8
 
-#EXTINF:-1,La S  EXTA
+#EXTINF:-1,La SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
 
 #EXTINF:-1,ANTENA LATINA CANAL 7
@@ -37,8 +37,6 @@ http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534
 #EXTINF:-1,BONAO TV CANAL 12
 http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
 
-#EXTINF:-1, MUSA TV
-http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
 
 #EXTINF:-1,TELECENTRO CANAL 13
 rtmp://qs1.distream.net:2124/tc3_str/telecentro
@@ -72,14 +70,17 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:0,CANAL DE LAS ESTRELLAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 
-#EXTINF:0,CANAL 5
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-
 #EXTINF:-1,TELEFUTURO CANAL 23
 rtmp://qs1.distream.net:2112/tf_str/futu
 
 #EXTINF:-1,TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,CANAL 25 SANTIAGO
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+
+#EXTINF:-1, MUSA TV
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
 
 #EXTINF:0,tve
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
@@ -92,6 +93,12 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 
 #EXTINF:0,GALAVISION
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+
+#EXTINF:-1,TELEUNIVERSO CANAL 29
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+
+#EXTINF:0,CANAL 5
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 
 #EXTINF:0,ONCE TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
@@ -111,14 +118,26 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
 #EXTINF:-1,CANAL 25 CIBAO
 http://ss7.domint.net:2074/tdtv_str/vision/chunklist_w1764943437.m3u8
 
+#EXTINF:-1,SPORTVISION CANAL 35
+rtmp://204.77.214.14:80/mogulus-stream-edge/sportvision/rtmp://212-169.livestream.com/affiliateStream/sportvision/6c69766572657065617465723a72746d703a2f2f3231322d3136392e6c69766573747265616d2e636f6d2f6d6f67756c75732f73706f7274766973696f6e2f73706f7274766973696f6e3030343932303136303531352d3134323430365f343436
+
 #EXTINF:-1, CDN 37
 http://livestream-f.akamaihd.net/15754920_4458460_62665817_1_2128@391999?v=3.6.0&fp=WIN 21,0,0,242&r=BLJSN&g=FMXBFNDFMBWE
 
-#EXTINF:-1, CDN 37 2
-http://livestream-f.akamaihd.net/15754920_5198653_63322076_1_2128@391999?v=3.6.0&fp=WIN 21,0,0,242&r=YHQMK&g=HLOIUIIEXKPF
+#EXTINF:-1,ACENTO TV 38
+rtmp://cdn6.iviplanet.com/AcentoTV/myStream.sdp
 
 #EXTINF:0,CANAL 40 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+
+#EXTINF:0,SUPERTV 55
+rtmp://ss9.domint.net:2022/stv_str/tv55
+
+#EXTINF:-1,CIELO TV 58
+http://162.144.219.218:1935/cielotv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,XTREMO TV 71
+rtmp://ss9.domint.net:1970/x_str/xtremo
 
 #EXTM3U
 #EXTINF:0,DISCOVERY THEATER
