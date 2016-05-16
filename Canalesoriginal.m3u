@@ -26,11 +26,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
 
 #EXTINF:-1,TRA DIGITAL
-rtmp://qs1.distream.net:2116/t45_str/<playpath>canal45 <swfUrl>http://www.dominicaninternet.com/reproductor/tv/jw6/jwplayer.flash.swf <pageUrl>http://www.dominicaninternet.com/reproductor/tv/mobileplay4auto.php?streamp=84
-
-#EXTINF:0,H&H
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
-
+rtmp://qs1.distream.net:2116/t45_str/canal45
 
 #EXTINF:-1,COLORVISION CANAL 9
 http://ss8.domint.net:2048/cvis_str/video/chunklist_w467833068.m3u8
@@ -45,19 +41,20 @@ http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534
 #EXTINF:-1, MUSA TV
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
 
+#EXTINF:-1,TELECENTRO CANAL 13
+rtmp://qs1.distream.net:2124/tc3_str/telecentro
 
 #EXTINF:0,NATGEO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
 
-#EXTINF:0,LIFETIME
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
-
 #EXTINF:-1,DIGITAL 15
 http://107.182.239.141:9095/live5/telemicro1515_2_96/playlist.m3u8
 
-#EXTINF:-1,TELECANAL 16
-http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+#EXTINF:-1,TELEUNION CANAL 16
+rtmp://50.62.135.164:1945/teleunion/TU
 
+#EXTINF:0,LIFETIME
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-id="Total_Euronews", tvg-logo="euronews-logo.png",EuroNews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
@@ -74,7 +71,13 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:0,CANAL 5
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 
-#EXTINF:0,AZTECA 7
+#EXTINF:-1,TELEFUTURO CANAL 23
+rtmp://qs1.distream.net:2112/tf_str/futu
+
+#EXTINF:0,H&H
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
+
+#EXTINF:0,AZTECA 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 
 #EXTINF:0,GALAVISION
@@ -83,7 +86,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:0,ONCE TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
 
-#EXTINF:0,AZTECA 13
+#EXTINF:0,AZTECA 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
 
 #EXTINF:0,CANAL 40
@@ -100,10 +103,6 @@ http://ss7.domint.net:2074/tdtv_str/vision/chunklist_w1764943437.m3u8
 
 #EXTINF:-1, CDN 37
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-
-#EXTINF:-1,Telemundo 39 HD
-rtmp://198.255.17.34:1935/live?nI86f4jo4iLptqsrkNIW2s0a4DEF5Dtw/live_telemundo44
-
 
 #EXTINF:0,CANAL 40 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
