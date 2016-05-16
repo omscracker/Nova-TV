@@ -114,6 +114,9 @@ http://ss7.domint.net:2074/tdtv_str/vision/chunklist_w1764943437.m3u8
 #EXTINF:-1, CDN 37
 http://livestream-f.akamaihd.net/15754920_4458460_62665817_1_2128@391999?v=3.6.0&fp=WIN 21,0,0,242&r=BLJSN&g=FMXBFNDFMBWE
 
+#EXTINF:-1, CDN 37 2
+http://livestream-f.akamaihd.net/15754920_5198653_63322076_1_2128@391999?v=3.6.0&fp=WIN 21,0,0,242&r=YHQMK&g=HLOIUIIEXKPF
+
 #EXTINF:0,CANAL 40 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 
